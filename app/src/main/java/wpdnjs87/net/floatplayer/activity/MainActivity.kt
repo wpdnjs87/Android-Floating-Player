@@ -1,4 +1,4 @@
-package wpdnjs87.net.float_player
+package wpdnjs87.net.floatplayer.activity
 
 import android.os.Bundle
 import android.support.design.widget.Snackbar
@@ -10,6 +10,7 @@ import android.view.Menu
 import android.view.MenuItem
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
+import wpdnjs87.net.floatplayer.R
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 

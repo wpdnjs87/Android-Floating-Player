@@ -1,4 +1,4 @@
-package wpdnjs87.net.float_player
+package wpdnjs87.net.floatplayer
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

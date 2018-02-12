@@ -1,4 +1,4 @@
-package wpdnjs87.net.float_player
+package wpdnjs87.net.floatplayer
 
 import org.junit.Test
 

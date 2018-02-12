@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="wpdnjs87.net.float_player.MainActivity"
+    tools:context="wpdnjs87.net.floatplayer.activity.MainActivity"
     tools:showIn="@layout/app_bar_main">
 
     <TextView
